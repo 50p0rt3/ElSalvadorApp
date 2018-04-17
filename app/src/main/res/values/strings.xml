@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ElSalvadorApp</string>
+
+    <string-array name="usuarios">
+        <item>Administrador</item>
+        <item>usuario1</item>
+        <item>usuario2</item>
+    </string-array>
+
+    <string-array name="claves">
+        <item>1234</item>
+        <item>56789</item>
+        <item>pajarito</item>
+    </string-array>
+    <string name="title_activity_municipios">Municipios</string>
 </resources>
